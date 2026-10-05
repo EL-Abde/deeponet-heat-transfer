@@ -15,7 +15,7 @@ with:
 
 * Spatially varying conductivity $\kappa(x,y)$
 * Heat-source field $Q(x,y)$
-* Hot left boundary: $\theta(0,y)=1$
+* Hot left boundary: $\theta(0,y)=0$
 * Cold right boundary: $\theta(1,y)=0$
 * Adiabatic top and bottom boundaries
 
